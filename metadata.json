@@ -1,0 +1,5 @@
+{
+  "name": "UtsavHub",
+  "description": "India's premier local event discovery platform, optimized for UPI payments and WhatsApp sharing.",
+  "requestFramePermissions": ["geolocation"]
+}
